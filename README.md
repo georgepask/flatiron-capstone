@@ -43,8 +43,7 @@ in RMSE for an XGB Regressor (3.43) and another iteration of the Random Forest R
 
 ### Final Model
 
-My final model is a linear SVM using SGD. Its accuracy on the training set is over 70%, which is pretty solid. It's worth mentioning that a title alone can't predict
-a video's CTR with 100% accuracy. Video thumbnails are hugely influential for a viewer's decision to click on a video.
+My final model is a linear classifier using SGD. Its accuracy on the training set is over 70%, which is pretty solid. It's worth mentioning that a title alone can't predict a video's CTR with 100% accuracy. Video thumbnails are hugely influential for a viewer's decision to click on a video.
 
 ### FUTURE WORK
 
